@@ -1,6 +1,4 @@
-/*Дані довжини а, b і c сторін деякого трикутника. Знайти медіани трикутника, сторонами якого є медіани початкового трикутника. 
-Довжина медіани, проведеної до сторони а, рівна 0,5*sqrt(2b^2+2c^2-a^2).
-*/
+
 #include <iostream.h>
 #include <math.h>
 
@@ -37,10 +35,8 @@ int main ()
 {
  
     cout << "Vvedite storony trukutnika: " << endl;
-    unsigned short int A, B, C;
-    cin >> A
-        >> B
-        >> C;
+     int A, B, C;
+    cin >> A >> B >> C;
     Func (A, B, C);
  
 system ("pause");

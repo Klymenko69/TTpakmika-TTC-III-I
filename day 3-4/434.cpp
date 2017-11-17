@@ -1,15 +1,11 @@
-/*ƒаны действительные числа а1,Е,an, b1,Е,bm.
-¬ последовательности а1, ..., an и в последовательности 
-b1,Е,bm все члены, следующие за членом с наибольшим 
-значением (за первым по пор€дку, если их несколько), 
-заменить на 0.5.
-*/
 #include <iostream>
 #include <algorithm>
 #include <iterator>
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
+ 
+ 
  
 class RealRand {
     double top;
