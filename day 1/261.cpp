@@ -1,6 +1,5 @@
-/* Дана строка. Подсчитать, сколько различных символов встречается
-в ней. Вывести их на экран.Дана строка. Подсчитать, сколько различных символов встречается
-в ней. Вывести их на экран.*/
+/*Dana ctroka. Podc4itat, ckolko pazli4nu[ simvolov vctre4aetca  v ney.
+Vvecti ih na ekran. Dana ctroka. Podc4itat, ckolcko razli4nux simvolov vctre4aetca v ney. vvesti ih na ekran */
 #include <iostream>
 #include <string>
 using namespace std;

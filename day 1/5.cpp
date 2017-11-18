@@ -1,6 +1,5 @@
-/*Після введення з клавіатури довільного рядка 
-визначити і вивести на екран 
-кількість латинських літер у ньому.*/
+/*Pislya vvedenya z klaviatyru dovilnogo ryadka vu3na4iti i vuvestu na ekran kilkicm 
+latunckux liter y nomy*/
 #include <iostream>
 #include <string>
 #include <algorithm>

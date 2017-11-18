@@ -1,5 +1,4 @@
-/*Дана строка. Подсчитать, сколько различных символов встречается
-в ней. Вывести их на экран. */
+/* Dana ctroka. Podc4itat, ckolko razli4nux cumvolom vctre4aetcya v ney/ Vvesti ix na ekran*/
 #include <stdio.h>
 #include <limits.h>
 #include <string.h>
