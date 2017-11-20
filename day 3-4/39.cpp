@@ -1,3 +1,7 @@
+/* Dani 1 4len i raznost arifmeti4eskoi progresii. Napisat 
+ rekyrsivnuu func dlya nahodjenya 
+ a) n-go 4lena progresii;
+ b) symmu n 1 4lenov progresii */
 
 #include <iostream>
 using namespace std;

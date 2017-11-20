@@ -1,4 +1,5 @@
-
+/*Vuzna4iti zna4enya func y=f(x) na promijky  (a,b) z krokom h vukorustovuu4i dlya ob4islenya zna4enya funcpidprogramu-func.
+y=ln(x-3)/(x^2+3x-1)  a=-5  b=5  h=0.6 */
 #include <iostream.h>
 #include <math.h>
 #include <cstdlib>

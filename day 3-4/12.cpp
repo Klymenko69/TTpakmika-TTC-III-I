@@ -1,3 +1,6 @@
+/* Dani dve posledovatelnosti celih 4isel; a1,a2,..a8 i b1,b2,...b8. 
+ Hayti koli4estvo 4etnih 4isel v pervoi iz cuh 4icel v pervoi iz nih i koli4e4stvo 
+ne4etnih vo vtoroi */
 
 #include <stdio.h>
  

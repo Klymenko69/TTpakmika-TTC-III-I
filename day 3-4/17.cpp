@@ -1,3 +1,6 @@
+/* Naiti zna4enya vurajenya
+ (2*5!+3*8!)/(6!+4!)
+ gde n! ozna4aet faktorial 4isla n (n!=1*2*...*n) */
 
 #include <iostream.h>
 #include <math.h>
