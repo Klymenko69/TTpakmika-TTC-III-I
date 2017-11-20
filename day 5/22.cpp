@@ -1,3 +1,4 @@
+/* Izvestna infa o 15 sobitiyah proizoshedshih  v te4enii sytok: hour i min. Sostavit program opredelyaushuu kakoe iz 2 sobitiu proizoshlo v eti sutki ranshe */
 #include <iostream>
 #include <stdlib.h>
 #include <ctime>

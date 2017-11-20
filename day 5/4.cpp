@@ -1,3 +1,4 @@
+/* Raspe4atat familii rabo4ih brigad na4inaiushihsya s bukv  A i C s ykazaniem  ih mesya4noi  zarplati*/
 #include <iostream>
 using namespace std;
  

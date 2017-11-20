@@ -1,3 +1,6 @@
+/* izvesni familii  vseh 30 sotrudnikov firmi i ih adresa. Opredelit  rabotaut li v virme 
+ ludi s odnoi iz familii : Kyzin, Kyravlev, Kydin, Kylkov, Kybikov. 
+ V slu4ae polojitelnogo otveta napi4atat ih adres  */
 #include <iostream>       
 #include <string>     
 #include <windows.h>
