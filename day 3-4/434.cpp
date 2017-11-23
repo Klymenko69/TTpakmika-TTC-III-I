@@ -1,16 +1,9 @@
-/* Dani deuctvitelni 4icla a1,...an,b1,...bn. V pocledovatelnocti a1...,an i v pocledovatelnocti b1,...bm vce 4leni sleduushie  za 4lenom 
- s naubolshim zna4enyam , zamenit na 0.5 */
-
-
 #include <iostream>
 #include <algorithm>
 #include <iterator>
 #include <cmath>
 #include <cstdlib>
 #include <ctime>
- 
- 
- 
 class RealRand {
     double top;
 public:
@@ -46,6 +39,5 @@ int main(){
     std::copy(b, b + M, std::ostream_iterator<double>(std::cout, " "));
     std::cout << std::endl;
     system("pause");
-    
     return 0;
 }

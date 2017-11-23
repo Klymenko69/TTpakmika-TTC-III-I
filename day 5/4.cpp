@@ -1,7 +1,5 @@
-/* Raspe4atat familii rabo4ih brigad na4inaiushihsya s bukv  A i C s ykazaniem  ih mesya4noi  zarplati*/
 #include <iostream>
 using namespace std;
- 
 struct worker
 {
     char name[16];
@@ -17,10 +15,12 @@ for(int i = 0; i<6; i++)
 }
 for(int i = 0; i<6; i++)
 {
-    if(w[i].name[0] == 'A' || w[i].name[0] == 'C' || w[i].name[0] == 'a' || w[i].name[0] == 'c' )
+    if(w[i].name[0] == 'A' || w[i].name[0] == 'C' || 
+w[i].name[0] == 'a' || w[i].name[0] == 'c' )
         printf("%s  %d \n",w[i].name,w[i].salary);
 }
  
 system("pause");
 return 0;
 }
+
