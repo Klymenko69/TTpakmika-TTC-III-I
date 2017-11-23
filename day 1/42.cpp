@@ -1,3 +1,5 @@
+/* Print the words that occur in each of the two
+given examples. */
 #include <iostream>
 #include <conio.h>
 #include <locale>
